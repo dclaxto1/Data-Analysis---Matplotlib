@@ -7,7 +7,7 @@ Displayed the number of unique mice IDs in the data, and then checked for any mo
 
 Displayed the updated number of unique mice IDs.
 
-Generated Summary Statistics
+Generated Summary Statistics <br />
 Created a DataFrame of summary statistics. 
 
 Created summary statistics dataframe that included:
