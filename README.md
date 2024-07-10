@@ -9,7 +9,7 @@ Displayed the number of unique mice IDs in the data, and then checked for any mo
 
 Displayed the updated number of unique mice IDs.
 
-![image](https://github.com/dclaxto1/Data-Analysis---Matplotlib/assets/128431134/e1a8c306-fbf0-4e87-8c45-49259f287b37)
+![image](https://github.com/dclaxto1/Data-Analysis---Matplotlib/assets/128431134/e1a8c306-fbf0-4e87-8c45-49259f287b37)  
 
 ## Generated Summary Statistics <br />
 Created a DataFrame of summary statistics. 
