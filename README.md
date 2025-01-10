@@ -1,7 +1,7 @@
 # Data-Analysis---Matplotlib      
 Data Analysis using Matplotlib   
    
-## Ran the provided package dependency and data imports, and then merged the mouse_metadata and study_results DataFrames into a single DataFrame.
+## Ran the provided package dependency and data imports, and then merged the mouse_metadata and study_results DataFrames into a single DataFrame.  
 
 ![image](https://github.com/dclaxto1/Data-Analysis---Matplotlib/assets/128431134/d67c9cda-458b-4cde-b67f-a6b7eb45aa6a)
 
