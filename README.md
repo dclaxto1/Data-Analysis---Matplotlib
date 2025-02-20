@@ -1,5 +1,5 @@
 # Data-Analysis---Matplotlib      
-Data Analysis using Matplotlib   
+Data Analysis using Matplotlib    
    
 ## Ran the provided package dependency and data imports, and then merged the mouse_metadata and study_results DataFrames into a single DataFrame.  
 
