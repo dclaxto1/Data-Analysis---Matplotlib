@@ -6,7 +6,7 @@ Data Analysis using Matplotlib
 ![image](https://github.com/dclaxto1/Data-Analysis---Matplotlib/assets/128431134/d67c9cda-458b-4cde-b67f-a6b7eb45aa6a)
 
 Displayed the number of unique mice IDs in the data, and then checked for any mouse ID with duplicate time points. Displayed the data associated with that mouse ID, and then created a new DataFrame where this data is removed. Used this cleaned DataFrame for the remaining steps.
- 
+   
 Displayed the updated number of unique mice IDs.
 
 ![image](https://github.com/dclaxto1/Data-Analysis---Matplotlib/assets/128431134/e1a8c306-fbf0-4e87-8c45-49259f287b37)   
